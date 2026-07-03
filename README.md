@@ -2,7 +2,7 @@
 <h1 align="center">Olá! Eu sou o Estevão 👋</h1>
 
 <h3 align="center">
-💻 Desenvolvedor Front-end em formação • ✈️ Estudante de Piloto Privado • ⭐ Fã de Star Wars
+💻 Desenvolvedor Front-end em formação • ✈️ Estudante de Piloto Privado 
 </h3>
 
 ---
